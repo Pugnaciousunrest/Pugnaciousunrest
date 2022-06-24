@@ -1,5 +1,4 @@
 from pytube import YouTube
-import colorama
 
 while True:
     URL = input("Input a url:\n")
